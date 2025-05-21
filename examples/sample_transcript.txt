@@ -1,0 +1,6 @@
+Rep: So what's the main issue with your current CRM?
+Prospect: It's just not flexible enough... and honestly it's too expensive for the value.
+Rep: Got it. Have you looked at switching?
+Prospect: I’ve considered it, but I’m hesitant to go through the whole migration again.
+Rep: Totally makes sense.
+...
